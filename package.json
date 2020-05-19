@@ -16,6 +16,7 @@
     "@babel/preset-env": "^7.9.6"
   },
   "dependencies": {
+    "graphql-tag": "^2.10.3",
     "graphql-yoga": "^1.16.9",
     "nodemon": "^2.0.4"
   }
